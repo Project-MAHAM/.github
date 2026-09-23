@@ -1,6 +1,6 @@
 # MAHAM
 
-### Modules for Astroparticle, High-Energy, Astronomy and Multimessenger
+### Modules for Astroparticle, High-energy, Astronomy and Multimessenger
 
 **MAHAM** is an open, community-developed scientific toolkit for reusable and validated tools, models, methods, and analysis utilities across astroparticle physics, high-energy astrophysics, astronomy, and multimessenger research.
 
